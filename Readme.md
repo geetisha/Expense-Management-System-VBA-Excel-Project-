@@ -61,25 +61,3 @@ The project aims to continuously improve and enhance its functionalities, includ
 ## Usage
 
 To use the Expense Management System, open the Excel workbook and navigate to the "Interface" sheet to access the userform for entering expenses. Use the "Analysis" sheet to view analytics and the "System Admin" section for managing user privileges.
-
-## License
-
-The Expense Management System is open-source and licensed under [MIT License](link-to-license).
-
-## Contributors
-
-- Israel Josiah https://github.com/IsraelVow - Lead Developer & Data Analyst
-
-## Feedback and Contributions
-
-We welcome your feedback and contributions to further improve the Expense Management System. Feel free to submit issues or pull requests on our [GitHub repository](https://github.com/IsraelVow?tab=repositories).
-
-## Acknowledgments
-
-We extend our gratitude to the open-source community for their valuable contributions and inspirations that helped shape this project.
-
----
-
-By [Israel Josiah](https://github.com/IsraelVow) | LinkedIn: https://www.linkedin.com/in/israeljosiah/
-
-For any inquiries or support, please contact us at (mailto:Israeljvow@gmail.com).
